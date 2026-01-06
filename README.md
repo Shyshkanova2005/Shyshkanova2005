@@ -1,6 +1,6 @@
 <h1 align ="center">👋Hi, I'am Sasha</h1>
 
-<p>I am a focused trainee in the field of programming with a great interest in learning. At the moment, I am a Computer Science student👩‍💻 at the National Technical University "Dniprotech" aand have successfully completed a programming course at IT STEP Academy. During my academic journey, I have worked on various programming tasks, gaining experience with data structures and algorithms.</p>
+<p>I am a focused trainee in the field of programming with a great interest in learning. At the moment, I am a Computer Science student👩‍💻 at the National Technical University "Dniprotech" and have successfully completed a programming course at IT STEP Academy. During my academic journey, I have worked on various programming tasks, gaining experience with data structures and algorithms.</p>
 
 <p>On GitHub, I actively share my projects and code, showcasing my growth as a developer. My repositories include solutions to algorithmic challenges and web development projects. I use GitHub to collaborate with other developers, learn new techniques, and keep a record of my progress in the programming field.</p>
 
